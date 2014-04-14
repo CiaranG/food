@@ -304,7 +304,7 @@ minetest.register_craftitem("food:sugar", {
 	groups = {food_sugar=1}
 })
 minetest.register_craft({
-	output = "food:sugar 20",
+	output = "food:sugar 2",
 	recipe = {
 		{"default:papyrus"},
 	}
